@@ -696,7 +696,7 @@ export const Experiences = [
 export const Works = [
   {
     image:
-      "https://i.postimg.cc/ncqH1BWz/Screenshot-2024-10-05-at-04-51-18.png",
+      "https://i.postimg.cc/cLQ7gVD5/IT-house-online.png",
     title: "IT House Courses",
     text: "Online kurslar uchun. Har xil online kurslarni sotib olib ulardan foydalansa bo'ladi.",
     works: [
@@ -740,12 +740,12 @@ export const Works = [
         work: "i18next",
       },
     ],
-    link: "https://car-rentalx.netlify.app/",
+    link: "https://it-house-online.netlify.app/",
     movement: "zoom-in",
     duration: "300",
   },
   {
-    image: "https://i.postimg.cc/ncwD07gR/2024-05-25-190347.png",
+    image: "",
     title: "Cusers",
     text: "Userlarni qo'shish va ularni o'chirish.",
     works: [
@@ -802,13 +802,13 @@ export const Works = [
         work: "Shadcn/ui",
       },
     ],
-    link: "https://maldex-web-jokerx.netlify.app/",
+    link: "https://it-house-online.netlify.app/",
     movement: "zoom-in",
     duration: "300",
   },
   {
     image: "https://i.postimg.cc/3xqptp4r/2024-05-25-195459.png",
-    title: "Weather App",
+    title: "Olcha.uz",
     text: "Davlat nomini kiriting va o'sha davlatning ob-havosi haqida malumotga ega bo'ling",
     works: [
       {
