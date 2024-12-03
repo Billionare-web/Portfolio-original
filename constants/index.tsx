@@ -645,54 +645,6 @@ export const Texnologies = [
     duration2: "1600",
   },
 ];
-
-export const Experiences = [
-  {
-    logo: `https://i.postimg.cc/RVnGkZdS/channels4-profile-removebg-preview.png`,
-    logoName: "ITHouse",
-    job: "Middle Web Developer",
-    works: [
-      {
-        work: "Web Mentor.",
-      },
-      {
-        work: "Leader for 1.5 years.",
-      },
-      {
-        work: "Working with problems in lessons",
-      },
-      {
-        work: "Web Developer in Maydon project.",
-      },
-    ],
-    when: "Sep 2023 - Present",
-    movement: "fade-up",
-    duration: "1200",
-  },
-  {
-    logo: `https://i.postimg.cc/KvHSNjzm/photo-2024-05-12-11-12-03.jpg`,
-    logoName: "Assanheya",
-    job: "Teacher Web Programming",
-    works: [
-      {
-        work: "Teacher.",
-      },
-      {
-        work: "Working for 5 months.",
-      },
-      {
-        work: "Helping to solve problems in lessons.",
-      },
-      {
-        work: "Online Video Maker.",
-      },
-    ],
-    when: "May 2024 - Present",
-    movement: "fade-up",
-    duration: "1300",
-  },
-];
-
 export const Works = [
   {
     image:
@@ -701,65 +653,29 @@ export const Works = [
     text: "Online kurslar uchun. Har xil online kurslarni sotib olib ulardan foydalansa bo'ladi.",
     works: [
       {
-        work: "Next.js",
-      },
-      {
-        work: "Typescript",
-      },
-      {
         work: "Tailwindcss",
-      },
-      {
-        work: "openai",
       },
       {
         work: "Git",
       },
       {
-        work: "React-hook-form",
-      },
-      {
-        work: "Mongodb",
-      },
-      {
-        work: "Clerk",
-      },
-      {
-        work: "React/query",
-      },
-      {
         work: "Shadcn/ui",
-      },
-      {
-        work: "Radix/ui",
-      },
-      {
-        work: "Expressjs",
-      },
-      {
-        work: "i18next",
       },
     ],
     link: "https://it-house-online.netlify.app/",
-    movement: "zoom-in",
+    movement: "Creative Agency",
     duration: "300",
   },
   {
-    image: "",
-    title: "Cusers",
-    text: "Userlarni qo'shish va ularni o'chirish.",
+    image: "https://i.postimg.cc/rm86WP79/1.png",
+    title: "Work Out",
+    text: "Fitneslar",
     works: [
       {
         work: "React",
       },
       {
-        work: "Typescript",
-      },
-      {
         work: "Css",
-      },
-      {
-        work: "Figma",
       },
       {
         work: "Git",
@@ -767,49 +683,15 @@ export const Works = [
       {
         work: "React-router-dom",
       },
-      {
-        work: "UUID",
-      },
-      {
-        work: "Zod",
-      },
     ],
-    link: "https://cusers-web-by-jokerx.netlify.app/",
-    movement: "zoom-in",
+    link: "https://work-out-nu.vercel.app/",
+    movement: "Work Out",
     duration: "300",
   },
   {
-    image: "https://i.postimg.cc/wv68ttqH/2024-05-25-185607.png",
-    title: "Maldex.uz",
-    text: "Maldex.uz figmasiga tayangan holda qilinga (lux-pro-premium verstka).",
-    works: [
-      {
-        work: "React",
-      },
-      {
-        work: "Typescript",
-      },
-      {
-        work: "TailwindCss",
-      },
-      {
-        work: "Figma",
-      },
-      {
-        work: "Git",
-      },
-      {
-        work: "Shadcn/ui",
-      },
-    ],
-    link: "https://it-house-online.netlify.app/",
-    movement: "zoom-in",
-    duration: "300",
-  },
-  {
-    image: "https://i.postimg.cc/3xqptp4r/2024-05-25-195459.png",
+    image: "https://i.postimg.cc/d3RmP55L/2.png",
     title: "Olcha.uz",
-    text: "Davlat nomini kiriting va o'sha davlatning ob-havosi haqida malumotga ega bo'ling",
+    text: "Olcha - internet do'koni - oson muddatli to'lov O'zbekiston bo'ylab",
     works: [
       {
         work: "Html",
@@ -826,55 +708,15 @@ export const Works = [
       {
         work: "JavaScript",
       },
-      {
-        work: "OpenWeatherApp",
-      },
     ],
-    link: "https://jokerx-weather-web.netlify.app/",
+    link: "https://olcha-uz-pink.vercel.app/",
     movement: "zoom-in",
     duration: "300",
   },
   {
-    image: "https://i.postimg.cc/qgfScgs1/2024-05-25-200317.png",
-    title: "Events",
-    text: "Formani to'ldirgan holda o'zingiz yaratgan eventlarni o'chirish va ularni yashirish imkoniyatiga ega bo'ling",
-    works: [
-      {
-        work: "React",
-      },
-      {
-        work: "TailwindCss",
-      },
-      {
-        work: "Figma",
-      },
-      {
-        work: "Git",
-      },
-      {
-        work: "TypeScript",
-      },
-      {
-        work: "Aos",
-      },
-      {
-        work: "Shadcn/ui",
-      },
-      {
-        work: "UUID",
-      },
-      {
-        work: "React-router-dom",
-      },
-    ],
-    link: "https://events-by-mrx.netlify.app/",
-    movement: "zoom-in",
-    duration: "300",
-  },
-  {
-    image: "https://i.postimg.cc/RVsXzW6y/2024-05-25-200753.png",
-    title: "Register App",
-    text: "Formani to'ldirish orqali saytga muvaffaqiyatli kirishingiz mumkin.",
+    image: "https://i.postimg.cc/0yyGFdDy/3.png",
+    title: "Creative Agency",
+    text: "",
     works: [
       {
         work: "React",
@@ -892,19 +734,10 @@ export const Works = [
         work: "Git",
       },
       {
-        work: "UUID",
-      },
-      {
         work: "React-router-dom",
       },
-      {
-        work: "Vite",
-      },
-      {
-        work: "Lottie",
-      },
     ],
-    link: "https://jokerx-register-react-web.netlify.app/",
+    link: "https://creative-agency-gray-eight.vercel.app/",
     movement: "zoom-in",
     duration: "300",
   },

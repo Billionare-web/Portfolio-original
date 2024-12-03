@@ -88,7 +88,7 @@ const GetInTouch = () => {
             msamaritdinov@gmail.com
             <svg
               className="md:w-[20px] md:h-[20px]"
-              onClick={handleCopy("jaloliddina98@gmail.com")}
+              onClick={handleCopy("msamaritdinov@gmail.com")}
               width="32.000000"
               height="32.000000"
               viewBox="0 0 32 32"
@@ -177,7 +177,7 @@ const GetInTouch = () => {
             +998 50 502 77 29
             <svg
               className="md:w-[20px] md:h-[20px]"
-              onClick={handleCopy("+998 94 724 02 77")}
+              onClick={handleCopy("+998 50 502 77 29")}
               width="32.000000"
               height="32.000000"
               viewBox="0 0 32 32"
