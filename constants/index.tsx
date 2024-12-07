@@ -648,7 +648,7 @@ export const Texnologies = [
 export const Works = [
   {
     image:
-      "https://i.postimg.cc/cLQ7gVD5/IT-house-online.png",
+      "https://freeimage.host/i/2GGCMEQ",
     title: "IT House Courses",
     text: "Online kurslar uchun. Har xil online kurslarni sotib olib ulardan foydalansa bo'ladi.",
     works: [
