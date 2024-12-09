@@ -684,7 +684,7 @@ export const Works = [
         work: "React-router-dom",
       },
     ],
-    link: "https://work-out-nu.vercel.app/",
+    link: "https://",
     movement: "Work Out",
     duration: "300",
   },

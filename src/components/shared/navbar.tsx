@@ -162,7 +162,7 @@ const Navbar = () => {
                 <div className="">
                   <div className="nav-head z-20 w-full pb-5 p-4">
                     <div className="nav-logo">
-                      <h1 className="text-2xl font-bold">{`<QX />`}</h1>
+                      <h1 className="text-2xl font-bold">{`<Mrweb />`}</h1>
                     </div>
                   </div>
                   <Separator />
